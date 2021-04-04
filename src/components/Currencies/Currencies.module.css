@@ -1,0 +1,20 @@
+.box{
+    font-family: 'Marck Script';
+padding: 5px;
+display: inline-block;
+background-color: rgba(255, 255, 255, 0.637);
+border-radius: 10px;
+}
+
+table{
+    margin: 0px;
+    border: 1px solid white;
+    text-align: center;
+}
+.title{
+    display: block;
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+}
+
